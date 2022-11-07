@@ -1,6 +1,6 @@
-package DataStructures;
+package DataStructures.linked;
 
-import java.util.HashMap;
+import DataStructures.linked.DoubleLinkedList;
 
 public class main {
     public static void printItems(int n){

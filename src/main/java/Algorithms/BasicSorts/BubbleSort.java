@@ -1,4 +1,4 @@
-package Algorithms.BubbleSort;
+package Algorithms.BasicSorts;
 
 import java.awt.geom.Area;
 import java.util.Arrays;

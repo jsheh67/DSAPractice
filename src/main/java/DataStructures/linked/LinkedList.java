@@ -1,6 +1,4 @@
-package DataStructures;
-
-import java.sql.SQLOutput;
+package DataStructures.linked;
 
 public class LinkedList {
     private Node head;

@@ -5,15 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09b0bebf-4166-4ff9-9fd8-0da103147d3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/BasicSorts/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/BasicSorts/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/BasicSorts/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/BasicSorts/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/BasicSorts/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/recursion/CallStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/recursion/CallStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/recursion/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/recursion/factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/HashTable/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/HashTable/HashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/HashTable/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/HashTable/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/Queue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/Queue/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/Queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/Queue/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/Stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/Stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/Stack/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/Stack/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/binarytree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/binarytree/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/binarytree/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/binarytree/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/graph/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/graph/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/graph/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/linked/Cookie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/linked/Cookie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/linked/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/linked/DoubleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/linked/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/linked/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/linked/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/linked/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/linked/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/linked/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/linked/toeplitz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/linked/toeplitz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GuIdHMZrJAeJQK8Y4ok86c5Qc2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,12 +53,97 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/DataStructures/linked" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.InsertionSort">
+    <configuration name="Algorithms.BasicSorts.BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.BasicSorts.BubbleSort" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.BasicSorts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Algorithms.BasicSorts.SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.BasicSorts.SelectionSort" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.BasicSorts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CallStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.recursion.CallStack" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.BasicSorts.InsertionSort" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.BasicSorts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.recursion.factorial" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.Algorithms.BasicSorts.SelectionSort" />
+        <item itemvalue="Application.Algorithms.BasicSorts.BubbleSort" />
+        <item itemvalue="Application.factorial" />
+        <item itemvalue="Application.CallStack" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,5 +165,22 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/DataStructures/linked/LinkedList.java</url>
+          <line>4</line>
+          <properties field="tail" class="DataStructures.linked.LinkedList" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithms/recursion/CallStack.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
