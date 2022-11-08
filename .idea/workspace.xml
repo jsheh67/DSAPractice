@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09b0bebf-4166-4ff9-9fd8-0da103147d3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/mergeSort/mergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/QuickSort/quickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/DataStructures/linked" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.mergeSort">
+  <component name="RunManager" selected="Application.quickSort">
     <configuration name="Algorithms.BasicSorts.BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithms.BasicSorts.BubbleSort" />
       <module name="DSA" />
@@ -87,19 +87,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithms.recursion.factorial" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Algorithms.recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="mergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithms.mergeSort.mergeSort" />
       <module name="DSA" />
@@ -113,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="quickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.QuickSort.quickSort" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.QuickSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.quickSort" />
         <item itemvalue="Application.mergeSort" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.Algorithms.BasicSorts.SelectionSort" />
         <item itemvalue="Application.Algorithms.BasicSorts.BubbleSort" />
-        <item itemvalue="Application.factorial" />
       </list>
     </recent_temporary>
   </component>
