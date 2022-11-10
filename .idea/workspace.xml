@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09b0bebf-4166-4ff9-9fd8-0da103147d3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/QuickSort/quickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithms/TreeTraversal/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/binarytree/BFS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/binarytree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/binarytree/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/binarytree/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/binarytree/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,20 +50,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/DataStructures/linked" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.quickSort">
-    <configuration name="Algorithms.BasicSorts.BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithms.BasicSorts.BubbleSort" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Algorithms.BasicSorts.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Algorithms.BasicSorts.SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithms.BasicSorts.SelectionSort" />
       <module name="DSA" />
@@ -80,6 +70,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Algorithms.BasicSorts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructures.binarytree.Main" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructures.binarytree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.quickSort" />
         <item itemvalue="Application.mergeSort" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.Algorithms.BasicSorts.SelectionSort" />
-        <item itemvalue="Application.Algorithms.BasicSorts.BubbleSort" />
       </list>
     </recent_temporary>
   </component>

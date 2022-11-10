@@ -1,7 +1,5 @@
 package DataStructures.binarytree;
 
-import DataStructures.Queue.Queue;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -15,14 +13,13 @@ public class Main {
         myBST.insert(52);
         myBST.insert(82);
 
-        myBST.insert(27);
+        System.out.println(myBST.BFS());
 
-        System.out.println(myBST.root.left.right.value);
+        System.out.println(myBST.DFSPreOrder());
 
-        System.out.println(myBST.contains(99));
-        System.out.println(myBST.contains(52));
-        System.out.println(myBST.contains(76));
-        System.out.println(myBST.contains(18));
-        System.out.println(myBST.contains(100));
+        System.out.println(myBST.DFSPostOrder());
+
+        System.out.println(myBST.DFSInOrder());
+
     }
 }
